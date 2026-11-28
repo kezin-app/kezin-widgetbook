@@ -1,0 +1,9 @@
+<svg width="240" height="180" viewBox="0 0 240 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M40 56L82 46L124 56L166 46V132L124 142L82 132L40 142V56Z" fill="#FFB84D" stroke="#1D1D1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M82 46V132M124 56V142" stroke="#1D1D1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M52 120C70 100 90 116 104 96" stroke="#1D1D1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 7"/>
+<path d="M164 130C178.359 130 190 118.359 190 104C190 89.6406 178.359 78 164 78C149.641 78 138 89.6406 138 104C138 118.359 149.641 130 164 130Z" fill="#FAFAFA" stroke="#1D1D1D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M183 123L204 144" stroke="#5726D2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M156 98.0008C156.047 96.5163 156.507 95.0743 157.328 93.8363C158.148 92.5982 159.297 91.6131 160.646 90.9911C161.995 90.3691 163.49 90.1349 164.964 90.3147C166.439 90.4944 167.834 91.0811 168.993 92.0089C170.153 92.9367 171.032 94.1691 171.531 95.568C172.03 96.967 172.13 98.4772 171.819 99.9296C171.508 101.382 170.799 102.719 169.772 103.791C168.744 104.864 167.438 105.629 166 106.001V111.001" stroke="#1D1D1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M166 119V120" stroke="#1D1D1D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
